@@ -1,2 +1,2 @@
-Valorant Clone - Web Development 1 Pre-Midterm Project
+Valorant Clone - Web Development 1 Pre-Midterm Project built 2 yrs ago.
 This repository showcases the Valorant clone I developed individually as part of my Web Development 1 pre-midterm project. It was a particularly challenging task, especially since Web Development 1 is just the introduction to HTML and CSS. My passion for HTML, CSS, JavaScript, and PHP helped me overcome the difficulties. I’m proud of what I’ve achieved and excited to share it here.
