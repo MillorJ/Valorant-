@@ -142,6 +142,10 @@
             background-color: #ffc107;
             color: #000;
         }
+        img {
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
     </style>
   </head>
   <body>
