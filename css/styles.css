@@ -1,8 +1,15 @@
-body{
-	background-image: url("../img/login.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-}
+body {
+    background-image: url("../img/login.jpg"); /* Background image */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; /* Center background image */
+    margin: 0;
+    font-family: Arial, sans-serif; /* Use a modern font */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
 
 .valorant-form{
 	background: rgb(204, 204, 204);
