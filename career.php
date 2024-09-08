@@ -75,6 +75,10 @@
     font-size: 1rem;
   }
 
+    @media (max-width: 768px) {
+    .valorant-form {
+      padding: 15px;
+    }
 
 
 
