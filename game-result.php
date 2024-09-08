@@ -113,13 +113,14 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
     <link rel="icon" type="image/x-icon" href="img/favicon.ico">
     <style>
-      body{
-        background-image: url(<?php echo $map["IMG_LOC"]; ?>);
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-attachment: fixed;
-        background-color: black;
-      }
+       body {
+            background-image: url(<?php echo htmlspecialchars($map["IMG_LOC"], ENT_QUOTES, 'UTF-8'); ?>);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+            background-color: #000;
+            color: #fff;
+        }
     </style>
   </head>
   <body>
