@@ -36,6 +36,12 @@
           color: #fff;
           margin-top: 20px;
 }
+
+        .valorant-form h2 {
+          margin: 0;
+          font-size: 2rem;
+}
+
     </style>
   </head>
   <body>
