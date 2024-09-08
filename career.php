@@ -79,7 +79,10 @@
     .valorant-form {
       padding: 15px;
     }
-
+    
+    .col {
+    margin-bottom: 10px;
+  }
 
 
     </style>
