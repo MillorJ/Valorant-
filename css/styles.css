@@ -55,6 +55,8 @@ body {
     border-color: #444;
     color: #fff; /* Text color for buttons */
   }
-  
+  .valorant-form .alert {
+    margin-bottom: 20px;
+  }
   
   
