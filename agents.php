@@ -50,6 +50,9 @@
     margin-bottom: 20px;
   }
 
+  .valorant-form b {
+    color: #007bff;
+  }
 
     </style>
   </head>
