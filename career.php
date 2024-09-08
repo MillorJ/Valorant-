@@ -83,7 +83,10 @@
     .col {
     margin-bottom: 10px;
   }
-
+  .row {
+    margin-bottom: 15px;
+  }
+}
 
     </style>
   </head>
