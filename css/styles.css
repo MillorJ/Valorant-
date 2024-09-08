@@ -20,3 +20,11 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Shadow for depth */
     color: #fff;
   }
+
+  .valorant-form h4 {
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 1.5rem;
+    color: #fff;
+  }
+  
