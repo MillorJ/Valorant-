@@ -37,6 +37,11 @@
     margin-bottom: 20px;
     color: #333;
   }
+  .valorant-form h2 {
+    text-align: center;
+    color: #333;
+  }
+
 
     </style>
   </head>
