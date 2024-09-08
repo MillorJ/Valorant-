@@ -16,23 +16,28 @@
     <link rel="icon" type="image/x-icon" href="img/favicon.ico">
     <style>
       body {
-    background-image: url("img/agents.webp");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-color: black;
-    font-family: Arial, sans-serif;
-    color: #fff;
-    margin: 0;
-    padding: 0;
+        background-image: url("img/agents.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-attachment: fixed;
+        background-color: black;
+        font-family: Arial, sans-serif;
+        color: #fff;
+        margin: 0;
+        padding: 0;
   }
-      .valorant-form{
-        background: rgb(204, 204, 204);
-        background: rgba(204, 204, 204, 0.5);
-        padding: 20px;
-        margin-top: 20px;
-        color: white;
-      }
+      .container {
+        margin-top: 30px;
+  }
+  .valorant-form {
+    background: rgba(204, 204, 204, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
+    color: #333;
+  }
+
     </style>
   </head>
   <body>
