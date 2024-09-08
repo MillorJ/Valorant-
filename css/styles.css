@@ -43,5 +43,11 @@ body {
     border-color: #007bff; /* Highlight border on focus */
     background: #444; /* Slightly lighter background on focus */
   }
+
+  .valorant-form .btn-dark {
+    background-color: #007bff; /* Button color */
+    border-color: #007bff;
+    color: #fff; /* Text color for buttons */
+  }
   
   
