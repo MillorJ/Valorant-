@@ -28,13 +28,14 @@
         color: #fff; /* White text color for better contrast */
         margin: 0;
 }
-      .valorant-form{
-        background: rgb(204, 204, 204);
-        background: rgba(204, 204, 204, 0.5);
-        padding: 20px;
-        margin-top: 20px;
-        color: white;
-      }
+.valorant-form {
+  background: rgba(0, 0, 0, 0.7); /* Darker background for better readability */
+  padding: 20px;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Shadow for depth */
+  color: #fff;
+  margin-top: 20px;
+}
     </style>
   </head>
   <body>
