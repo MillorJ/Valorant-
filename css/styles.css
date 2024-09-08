@@ -38,4 +38,10 @@ body {
     background: #333; /* Dark background for inputs */
     color: #fff; /* White text color */
   }
+
+  .valorant-form .form-control:focus {
+    border-color: #007bff; /* Highlight border on focus */
+    background: #444; /* Slightly lighter background on focus */
+  }
+  
   
