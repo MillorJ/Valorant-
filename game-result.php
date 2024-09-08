@@ -121,6 +121,11 @@
             background-color: #000;
             color: #fff;
         }
+        .container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 8px;
+        }
     </style>
   </head>
   <body>
