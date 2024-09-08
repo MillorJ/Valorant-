@@ -42,6 +42,10 @@
     color: #333;
   }
 
+  .valorant-form img {
+    border-radius: 8px;
+  }
+
 
     </style>
   </head>
