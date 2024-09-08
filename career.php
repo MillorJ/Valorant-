@@ -20,13 +20,13 @@
     <link rel="icon" type="image/x-icon" href="img/favicon.ico">
     <style>
      body {
-  background-image: url("img/career.webp"); /* Background image */
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center; /* Center background image */
-  font-family: Arial, sans-serif; /* Modern font */
-  color: #fff; /* White text color for better contrast */
-  margin: 0;
+        background-image: url("img/career.webp"); /* Background image */
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center; /* Center background image */
+        font-family: Arial, sans-serif; /* Modern font */
+        color: #fff; /* White text color for better contrast */
+        margin: 0;
 }
       .valorant-form{
         background: rgb(204, 204, 204);
