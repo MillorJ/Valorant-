@@ -71,6 +71,9 @@
         font-size: 1.25rem; /* Adjusted font size for headings */
       }
 
+        b {
+    font-size: 1rem;
+  }
 
 
 
