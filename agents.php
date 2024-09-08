@@ -46,6 +46,10 @@
     border-radius: 8px;
   }
 
+  .valorant-form .row {
+    margin-bottom: 20px;
+  }
+
 
     </style>
   </head>
