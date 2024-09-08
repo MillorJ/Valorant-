@@ -15,11 +15,12 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
     <link rel="icon" type="image/x-icon" href="img/favicon.ico">
     <style>
-      body{
+     body {
         background-image: url("img/waiting-room.webp");
         background-repeat: no-repeat;
         background-size: cover;
-        background-color: black;
+        background-color: #000;
+        color: #fff;
       }
       .valorant-form{
         background: rgb(204, 204, 204);
