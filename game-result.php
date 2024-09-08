@@ -130,6 +130,10 @@
             border-radius: 8px;
             padding: 20px;
         }
+        .alert-success {
+            background-color: #28a745;
+            color: #fff;
+        }
     </style>
   </head>
   <body>
