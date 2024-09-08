@@ -32,3 +32,10 @@ body {
     color: #ddd; /* Lighter text for labels */
   }
   
+  .valorant-form .form-control {
+    border-radius: 5px; /* Rounded corners for inputs */
+    border: 1px solid #555; /* Subtle border color */
+    background: #333; /* Dark background for inputs */
+    color: #fff; /* White text color */
+  }
+  
