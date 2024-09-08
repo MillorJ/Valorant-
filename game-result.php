@@ -134,6 +134,10 @@
             background-color: #28a745;
             color: #fff;
         }
+        .alert-danger {
+            background-color: #dc3545;
+            color: #fff;
+        }
     </style>
   </head>
   <body>
