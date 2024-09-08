@@ -49,5 +49,12 @@ body {
     border-color: #007bff;
     color: #fff; /* Text color for buttons */
   }
+
+  .valorant-form .btn-light {
+    background-color: #444; /* Lighter button color */
+    border-color: #444;
+    color: #fff; /* Text color for buttons */
+  }
+  
   
   
