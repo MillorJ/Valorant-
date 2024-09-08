@@ -138,6 +138,10 @@
             background-color: #dc3545;
             color: #fff;
         }
+        .alert-warning {
+            background-color: #ffc107;
+            color: #000;
+        }
     </style>
   </head>
   <body>
