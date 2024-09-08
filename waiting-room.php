@@ -31,6 +31,10 @@
         box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
       }
 
+	  .form-label {
+        font-weight: bold;
+      }
+
 
     </style>
   </head>
