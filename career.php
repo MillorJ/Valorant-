@@ -46,6 +46,11 @@
           padding: 20px;
 }
 
+        .text-center {
+          text-align: center;
+        }
+
+
 
     </style>
   </head>
