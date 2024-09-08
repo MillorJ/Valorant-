@@ -11,10 +11,12 @@ body {
     height: 100vh;
   }
 
-.valorant-form{
-	background: rgb(204, 204, 204);
-    background: rgba(204, 204, 204, 0.5);
-    padding: 20px;
-    margin-top: 280px;
-    color: white;
-}
+  .valorant-form {
+    background: rgba(0, 0, 0, 0.8); /* Darker semi-transparent background */
+    padding: 30px;
+    border-radius: 10px; /* Rounded corners */
+    width: 100%;
+    max-width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Shadow for depth */
+    color: #fff;
+  }
