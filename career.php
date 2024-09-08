@@ -61,6 +61,17 @@
         justify-content: center;
       }
 
+      .col img {
+  margin-top: 10px;
+  border-radius: 50%; /* Circular profile images */
+}
+
+      h4 {
+        margin-top: 10px;
+        font-size: 1.25rem; /* Adjusted font size for headings */
+      }
+
+
 
 
 
