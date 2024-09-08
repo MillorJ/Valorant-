@@ -15,7 +15,7 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link rel="icon" type="image/x-icon" href="img/favicon.ico">
     <style>
-  body {
+      body {
     background-image: url("img/agents.webp");
     background-repeat: no-repeat;
     background-size: cover;
@@ -26,42 +26,14 @@
     margin: 0;
     padding: 0;
   }
-
-  .container {
-    margin-top: 30px;
-  }
-
-  .valorant-form {
-    background: rgba(204, 204, 204, 0.7);
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
-    margin-bottom: 20px;
-    color: #333;
-  }
-
-  .valorant-form h2 {
-    text-align: center;
-    color: #333;
-  }
-
-  .valorant-form img {
-    border-radius: 8px;
-  }
-
-  .valorant-form .row {
-    margin-bottom: 20px;
-  }
-
-  .valorant-form b {
-    color: #007bff;
-  }
-
-  .valorant-form hr {
-    border: 1px solid #007bff;
-    margin: 10px 0;
-  }
-</style>
+      .valorant-form{
+        background: rgb(204, 204, 204);
+        background: rgba(204, 204, 204, 0.5);
+        padding: 20px;
+        margin-top: 20px;
+        color: white;
+      }
+    </style>
   </head>
   <body>
     <?php 
