@@ -42,6 +42,11 @@
           font-size: 2rem;
 }
 
+        .container {
+          padding: 20px;
+}
+
+
     </style>
   </head>
   <body>
