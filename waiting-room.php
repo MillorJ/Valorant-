@@ -34,6 +34,10 @@
 	  .form-label {
         font-weight: bold;
       }
+	  .btn-danger {
+        background-color: #d9534f;
+        border-color: #d9534f;
+      }
 
 
     </style>
