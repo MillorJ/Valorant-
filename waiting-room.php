@@ -22,12 +22,12 @@
         background-color: #000;
         color: #fff;
       }
-      .valorant-form{
-        background: rgb(204, 204, 204);
-        background: rgba(204, 204, 204, 0.5);
-        padding: 20px;
-        margin-top: 280px;
-        color: white;
+      body {
+        background-image: url("img/waiting-room.webp");
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: #000;
+        color: #fff;
       }
     </style>
   </head>
