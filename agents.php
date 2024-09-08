@@ -54,6 +54,11 @@
     color: #007bff;
   }
 
+  .valorant-form hr {
+    border: 1px solid #007bff;
+    margin: 10px 0;
+  }
+
     </style>
   </head>
   <body>
