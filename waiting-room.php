@@ -38,6 +38,9 @@
         background-color: #d9534f;
         border-color: #d9534f;
       }
+	  .alert {
+        margin-top: 20px;
+      }
 
 
     </style>
