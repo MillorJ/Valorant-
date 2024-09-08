@@ -27,4 +27,8 @@ body {
     font-size: 1.5rem;
     color: #fff;
   }
+
+  .valorant-form .form-label {
+    color: #ddd; /* Lighter text for labels */
+  }
   
