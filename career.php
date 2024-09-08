@@ -19,75 +19,19 @@
     <link href="css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link rel="icon" type="image/x-icon" href="img/favicon.ico">
     <style>
-     body {
-        background-image: url("img/career.webp"); /* Background image */
+      body{
+        background-image: url("img/career.webp");
         background-repeat: no-repeat;
         background-size: cover;
-        background-position: center; /* Center background image */
-        font-family: Arial, sans-serif; /* Modern font */
-        color: #fff; /* White text color for better contrast */
-        margin: 0;
-}
-        .valorant-form {
-          background: rgba(0, 0, 0, 0.7); /* Darker background for better readability */
-          padding: 20px;
-          border-radius: 10px; /* Rounded corners */
-          box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); /* Shadow for depth */
-          color: #fff;
-          margin-top: 20px;
-}
-
-        .valorant-form h2 {
-          margin: 0;
-          font-size: 2rem;
-}
-
-        .container {
-          padding: 20px;
-}
-
-        .text-center {
-          text-align: center;
-        }
-
-        .row {
-  margin-bottom: 20px;
-}
-
-      .col {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
+        background-color: black;
       }
-
-      .col img {
-  margin-top: 10px;
-  border-radius: 50%; /* Circular profile images */
-}
-
-      h4 {
-        margin-top: 10px;
-        font-size: 1.25rem; /* Adjusted font size for headings */
+      .valorant-form{
+        background: rgb(204, 204, 204);
+        background: rgba(204, 204, 204, 0.5);
+        padding: 20px;
+        margin-top: 20px;
+        color: white;
       }
-
-        b {
-    font-size: 1rem;
-  }
-
-    @media (max-width: 768px) {
-    .valorant-form {
-      padding: 15px;
-    }
-    
-    .col {
-    margin-bottom: 10px;
-  }
-  .row {
-    margin-bottom: 15px;
-  }
-}
-
     </style>
   </head>
   <body>
